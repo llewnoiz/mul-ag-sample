@@ -265,9 +265,18 @@ Always explain what you're doing and why you're using specific agents."""
             )
 
             # Create orchestrator tools and agent
+            # tools = self._create_tools()
+            # TODO: Create an Agent with the appropriate parameters
+            # self.agent = ????
+                        # Create orchestrator tools and agent
             tools = self._create_tools()
             # TODO: Create an Agent with the appropriate parameters
-            self.agent = ???
+            self.agent = Agent(
+                model=self.model,
+                system_prompt=self.system_prompt,
+                tools=tools
+            )
+            logger.info("Orchestrator agent created")
             logger.info("Orchestrator agent created")
 
             while True:

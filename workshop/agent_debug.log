@@ -19,3 +19,12 @@
 2026-04-21 06:14:08,595 - electrify-agent - INFO - Retrieved 3 MCP tools
 2026-04-21 06:14:08,600 - electrify-agent - INFO - Agent created
 2026-04-21 06:14:17,411 - electrify-agent - INFO - Query: Can you list my last 3 prompts
+2026-04-21 06:41:26,350 - electrify-agent - INFO - Initializing Application...
+2026-04-21 06:41:26,350 - electrify-agent - INFO - System prompt loaded: 2737 characters
+2026-04-21 06:41:26,350 - electrify-agent - INFO - Setting up agent...
+2026-04-21 06:41:26,401 - electrify-agent - INFO - Bedrock model initialized
+2026-04-21 06:41:26,401 - electrify-agent - INFO - Agent setup complete
+2026-04-21 06:41:38,030 - electrify-agent - INFO - Query: What rate plans are available?
+2026-04-21 06:42:00,339 - electrify-agent - INFO - Query: What is my last month's bill?
+2026-04-21 06:42:16,823 - electrify-agent - INFO - Query: Based on my usage patterns, can you suggest a better rate plan? Show my current usage and rate plan details.
+2026-04-21 06:42:42,461 - electrify-agent - INFO - Query: Show me my last 6 months of bills with amounts and dates

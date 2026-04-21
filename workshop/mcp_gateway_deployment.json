@@ -1,0 +1,9 @@
+{
+  "gateway_id": "mcp-gateway-j349smssjr",
+  "gateway_url": "https://mcp-gateway-j349smssjr.gateway.bedrock-agentcore.us-east-1.amazonaws.com/mcp",
+  "targets": [
+    "electrify",
+    "dataviz"
+  ],
+  "region": "us-east-1"
+}
