@@ -1,0 +1,21 @@
+2026-04-21 06:12:15,860 - electrify-agent - INFO - Starting application
+2026-04-21 06:12:15,860 - electrify-agent - INFO - Initializing Application...
+2026-04-21 06:12:15,862 - electrify-agent - INFO - System prompt loaded: 2737 characters
+2026-04-21 06:12:15,863 - electrify-agent - INFO - Setting up agent...
+2026-04-21 06:12:15,972 - electrify-agent - INFO - Bedrock model initialized
+2026-04-21 06:12:15,973 - electrify-agent - INFO - Agent setup complete
+2026-04-21 06:12:16,620 - electrify-agent - INFO - Retrieved 3 MCP tools
+2026-04-21 06:12:16,622 - electrify-agent - INFO - Agent created
+2026-04-21 06:12:30,635 - electrify-agent - INFO - Query: What are the available rate plans?
+2026-04-21 06:12:51,138 - electrify-agent - INFO - Query: Get my customer information
+2026-04-21 06:13:15,871 - electrify-agent - INFO - Query: Show me my recent bills
+2026-04-21 06:13:50,587 - electrify-agent - INFO - Query: exit
+2026-04-21 06:14:07,912 - electrify-agent - INFO - Starting application
+2026-04-21 06:14:07,913 - electrify-agent - INFO - Initializing Application...
+2026-04-21 06:14:07,913 - electrify-agent - INFO - System prompt loaded: 2737 characters
+2026-04-21 06:14:07,913 - electrify-agent - INFO - Setting up agent...
+2026-04-21 06:14:07,970 - electrify-agent - INFO - Bedrock model initialized
+2026-04-21 06:14:07,970 - electrify-agent - INFO - Agent setup complete
+2026-04-21 06:14:08,595 - electrify-agent - INFO - Retrieved 3 MCP tools
+2026-04-21 06:14:08,600 - electrify-agent - INFO - Agent created
+2026-04-21 06:14:17,411 - electrify-agent - INFO - Query: Can you list my last 3 prompts

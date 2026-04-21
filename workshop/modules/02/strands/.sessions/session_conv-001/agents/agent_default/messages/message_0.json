@@ -1,0 +1,14 @@
+{
+  "message": {
+    "role": "user",
+    "content": [
+      {
+        "text": "What are the available rate plans?"
+      }
+    ]
+  },
+  "message_id": 0,
+  "redact_message": null,
+  "created_at": "2026-04-21T06:12:30.637378+00:00",
+  "updated_at": "2026-04-21T06:12:30.637388+00:00"
+}

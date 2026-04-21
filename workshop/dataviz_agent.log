@@ -1,0 +1,54 @@
+2026-04-21 06:27:50,746 - dataviz-agent - INFO - Initializing DataViz Agent...
+2026-04-21 06:27:50,747 - dataviz-agent - INFO - Setting up DataViz agent...
+2026-04-21 06:27:50,804 - dataviz-agent - INFO - Bedrock model initialized
+2026-04-21 06:27:50,804 - dataviz-agent - INFO - MCP config file not found: dataviz.yml
+2026-04-21 06:27:50,804 - dataviz-agent - INFO - No valid MCP configuration found, using built-in tools only
+2026-04-21 06:27:50,804 - dataviz-agent - INFO - DataViz agent setup complete
+2026-04-21 06:27:50,805 - dataviz-agent - INFO - Agent created
+2026-04-21 06:28:07,566 - dataviz-agent - INFO - Query: "CustomerID,Age,PurchaseAmount
+1,25,150
+2,32,200
+3,28,175
+4,45,300
+5,38,250
+6,52,400
+7,29,180
+8,41,320
+9,35,220
+10,48,380
+11,26,160
+12,55,420
+13,31,190
+14,44,310
+15,37,240
+16,50,390
+17,27,170
+18,42,330
+19,33,210
+20,49,370"
+
+Create a histogram showing the distribution of customer ages with 5 bins
+2026-04-21 06:28:35,015 - dataviz-agent - INFO - Query: "Month,Sales
+Jan,1000
+Feb,1200
+Mar,800
+Apr,1500
+May,1100
+Jun,1300"
+
+Create a bar chart showing sales by month
+2026-04-21 06:28:48,523 - dataviz-agent - INFO - Query: "Product,Price,Category,Rating
+Laptop,999,Electronics,4.5
+Phone,699,Electronics,4.2
+Desk,299,Furniture,4.0
+Chair,199,Furniture,4.3
+Tablet,399,Electronics,4.1"
+
+Create a scatter plot showing the relationship between price and rating, colored by category
+2026-04-21 06:29:07,083 - dataviz-agent - INFO - Query: "Region,Q1,Q2,Q3,Q4
+North,1000,1200,1100,1400
+South,800,900,1000,1100
+East,1100,1300,1200,1500
+West,900,1000,1100,1200"
+
+Analyze this data and recommend the best visualization

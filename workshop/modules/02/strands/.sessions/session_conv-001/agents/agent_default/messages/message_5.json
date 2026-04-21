@@ -1,0 +1,34 @@
+{
+  "message": {
+    "role": "assistant",
+    "content": [
+      {
+        "text": "I'll retrieve your customer information right away."
+      },
+      {
+        "toolUse": {
+          "toolUseId": "tooluse_JSek4uw9tzJp4ht18zWKwC",
+          "name": "get_customer",
+          "input": {
+            "customer_username": "rroe@example.com"
+          }
+        }
+      }
+    ],
+    "metadata": {
+      "usage": {
+        "inputTokens": 2272,
+        "outputTokens": 70,
+        "totalTokens": 2342
+      },
+      "metrics": {
+        "latencyMs": 7457,
+        "timeToFirstByteMs": 7058
+      }
+    }
+  },
+  "message_id": 5,
+  "redact_message": null,
+  "created_at": "2026-04-21T06:12:58.665552+00:00",
+  "updated_at": "2026-04-21T06:12:58.665565+00:00"
+}

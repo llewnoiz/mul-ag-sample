@@ -1,0 +1,25 @@
+{
+  "message": {
+    "role": "assistant",
+    "content": [
+      {
+        "text": "Here's your current customer information, Richard:\n\n## **Account Details**\n- **Name:** Richard Roe\n- **Email:** rroe@example.com\n- **Phone:** 512-555-0100\n\n## **Service Address**\n- **Address:** 123 Main Street\n- **City:** Austin, TX 78701\n\n## **Current Rate Plan**\n- **Plan:** TOU-PRIME (Time-of-Use Prime)\n- **Start Date:** April 20, 2025\n- **Status:** Active (no end date)\n\n## **Your Current TOU-PRIME Rates:**\n- **Midnight to 6 AM:** 17.0¢ per kWh (off-peak)\n- **6 AM to 5 PM:** 15.0¢ per kWh (mid-peak)\n- **5 PM to Midnight:** 21.0¢ per kWh (peak)\n\nSince you're currently on the TOU-PRIME plan, you're getting the best rates during daytime hours (6 AM-5 PM) at 15.0¢ per kWh. To maximize your savings, try to avoid heavy electricity usage during the evening peak hours (5 PM-midnight) when rates are highest at 21.0¢ per kWh.\n\nWould you like me to:\n- Show you your recent bills to see how you're doing with this plan?\n- Compare your current plan with other available options?\n- Calculate potential savings if you switched to a different rate plan?"
+      }
+    ],
+    "metadata": {
+      "usage": {
+        "inputTokens": 2567,
+        "outputTokens": 353,
+        "totalTokens": 2920
+      },
+      "metrics": {
+        "latencyMs": 6145,
+        "timeToFirstByteMs": 1666
+      }
+    }
+  },
+  "message_id": 7,
+  "redact_message": null,
+  "created_at": "2026-04-21T06:13:04.950231+00:00",
+  "updated_at": "2026-04-21T06:13:04.950245+00:00"
+}

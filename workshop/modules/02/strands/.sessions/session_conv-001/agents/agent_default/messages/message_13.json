@@ -1,0 +1,25 @@
+{
+  "message": {
+    "role": "assistant",
+    "content": [
+      {
+        "text": "Thank you for using our energy assistance service today, Richard! I hope I was able to help you with your account information and billing details.\n\nIf you need any assistance in the future with your energy account, bill payments, rate plan comparisons, or have any questions about your service, please don't hesitate to reach out. We're here to help you manage your energy usage efficiently and save money.\n\nHave a great day! 💡⚡"
+      }
+    ],
+    "metadata": {
+      "usage": {
+        "inputTokens": 4614,
+        "outputTokens": 97,
+        "totalTokens": 4711
+      },
+      "metrics": {
+        "latencyMs": 3192,
+        "timeToFirstByteMs": 1776
+      }
+    }
+  },
+  "message_id": 13,
+  "redact_message": null,
+  "created_at": "2026-04-21T06:13:53.913091+00:00",
+  "updated_at": "2026-04-21T06:13:53.913104+00:00"
+}

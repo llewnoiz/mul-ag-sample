@@ -1,0 +1,25 @@
+{
+  "message": {
+    "role": "assistant",
+    "content": [
+      {
+        "text": "I can see your conversation history from our current session. Here are your last 3 prompts:\n\n1. **\"exit\"** - You asked to exit the service\n2. **\"Show me my recent bills\"** - You requested to see your recent billing history\n3. **\"Get my customer information\"** - You asked me to retrieve your customer account details\n\nIs there anything specific about these requests that you'd like me to help clarify or follow up on?"
+      }
+    ],
+    "metadata": {
+      "usage": {
+        "inputTokens": 4724,
+        "outputTokens": 103,
+        "totalTokens": 4827
+      },
+      "metrics": {
+        "latencyMs": 3054,
+        "timeToFirstByteMs": 1849
+      }
+    }
+  },
+  "message_id": 15,
+  "redact_message": null,
+  "created_at": "2026-04-21T06:14:20.750892+00:00",
+  "updated_at": "2026-04-21T06:14:20.750906+00:00"
+}

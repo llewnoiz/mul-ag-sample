@@ -1,0 +1,32 @@
+{
+  "message": {
+    "role": "assistant",
+    "content": [
+      {
+        "text": "I'll get the current available rate plans for you."
+      },
+      {
+        "toolUse": {
+          "toolUseId": "tooluse_SIW2bxTIa6CyKM0zhCyPpi",
+          "name": "get_rates",
+          "input": {}
+        }
+      }
+    ],
+    "metadata": {
+      "usage": {
+        "inputTokens": 1360,
+        "outputTokens": 48,
+        "totalTokens": 1408
+      },
+      "metrics": {
+        "latencyMs": 2382,
+        "timeToFirstByteMs": 2227
+      }
+    }
+  },
+  "message_id": 1,
+  "redact_message": null,
+  "created_at": "2026-04-21T06:12:33.237896+00:00",
+  "updated_at": "2026-04-21T06:12:33.237910+00:00"
+}
